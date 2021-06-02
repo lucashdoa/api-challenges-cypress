@@ -1,0 +1,23 @@
+{
+  "name": "api-challenges-cypress",
+  "version": "1.0.0",
+  "description": "😈 Using Cypress to solve the API testing challenges by Evil Tester",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucashdoa/api-challenges-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucashdoa/api-challenges-cypress/issues"
+  },
+  "homepage": "https://github.com/lucashdoa/api-challenges-cypress#readme",
+  "devDependencies": {
+    "cypress": "^7.4.0"
+  }
+}
